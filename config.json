@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartrncrypt",
+        "uuid": 8118475,
+        "checksum": "xftog4"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
